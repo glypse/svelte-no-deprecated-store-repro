@@ -1,0 +1,16 @@
+{
+	"name": "svelte-no-deprecated-store-repro",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"lint": "eslint ."
+	},
+	"devDependencies": {
+		"eslint": "10.12.0",
+		"eslint-plugin-svelte": "3.23.1",
+		"svelte": "5.57.2",
+		"svelte-eslint-parser": "1.9.0",
+		"typescript": "6.0.3",
+		"typescript-eslint": "8.71.1"
+	}
+}
